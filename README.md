@@ -32,12 +32,12 @@ Soy Ingeniero Biomédico en ejercicio y estoy terminando la carrera de **Full St
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=joserodrim2&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf" />
-    <img src="https://github-readme-stats.vercel.app/api?username=joserodrim2&show_icons=true&theme=transparent&hide_border=true&title_color=0d9488&icon_color=0d9488&text_color=57606a&ring_color=0d9488" alt="Estadísticas de GitHub de Jose" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jose0104.vercel.app/api?username=joserodrim2&show_icons=true&theme=transparent&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf&text_color=c9d1d9&ring_color=2dd4bf" />
+    <img src="https://github-readme-stats-jose0104.vercel.app/api?username=joserodrim2&show_icons=true&theme=transparent&hide_border=true&title_color=0d9488&icon_color=0d9488&text_color=57606a&ring_color=0d9488" alt="Estadísticas de GitHub de Jose" height="165"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=joserodrim2&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=c9d1d9&langs_count=6" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joserodrim2&layout=compact&theme=transparent&hide_border=true&title_color=0d9488&text_color=57606a&langs_count=6" alt="Lenguajes más usados" height="165"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-jose0104.vercel.app/api/top-langs/?username=joserodrim2&layout=compact&theme=transparent&hide_border=true&title_color=2dd4bf&text_color=c9d1d9&langs_count=6" />
+    <img src="https://github-readme-stats-jose0104.vercel.app/api/top-langs/?username=joserodrim2&layout=compact&theme=transparent&hide_border=true&title_color=0d9488&text_color=57606a&langs_count=6" alt="Lenguajes más usados" height="165"/>
   </picture>
 </p>
 
